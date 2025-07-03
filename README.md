@@ -34,6 +34,10 @@ To discover and engage with Reddit users who are actively discussing travel SIMs
 - Response generation using Gemini API with customized prompts to avoid salesy language
 - Modular architecture with clean separation between functionality components
 
+### Additional Features
+- Sorting generated responses from highest engagement prediction to lowest
+- Error handling in all modules
+
 ---
 
 ## Project Structure
